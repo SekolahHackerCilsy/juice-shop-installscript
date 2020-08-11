@@ -1,6 +1,7 @@
 # Juice Shop OWASP Lab
 
  This script intended for study purposes at [Cilsy Fiolution](https://sekolahhacker.com).
+ Powered by [Juice Shop OWASP](https://github.com/bkimminich/juice-shop)
 
 ## Installation
 
