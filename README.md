@@ -2,5 +2,5 @@
 
 ## Installation step:
 Clone this repository, run ```bash
-git clone 
+git clone https://github.com/SekolahHackerCilsy/juice-shop-installscript.git
 ```
