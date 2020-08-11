@@ -1,10 +1,10 @@
-# Foobar
+# Juice Shop OWASP Lab
 
-Foobar is a Python library for dealing with word pluralization.
+ This script intended for study purposes at [Cilsy Fiolution](https://sekolahhacker.com).
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use this command to clone the repository.
 
 ```bash
 git clone https://github.com/SekolahHackerCilsy/juice-shop-installscript.git
