@@ -14,8 +14,9 @@ git clone https://github.com/SekolahHackerCilsy/juice-shop-installscript.git
 ## Usage
 
 ```bash
-$ chmod +x autorun-juice.sh
-$ ./autorun-juice.sh
+$ cd juice-shop-installscript
+$ sudo chmod +x autorun-juice.sh
+$ sudo ./autorun-juice.sh
 ```
 After installation finished, you can access juice shop OWASP lab on [ip_address]:3000
 
